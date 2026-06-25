@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
+exemploBlobStorage/Scripts/* linguist-language=C#
+exemploBlobStorage/Content/* linguist-language=C#
 * text=auto
