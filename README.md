@@ -1,4 +1,4 @@
-## 🌐 Azurite-Blob-RazorMvc10
+## 🌐 Azurite-Blob-RazorMvc
 Exemplo de CRUD com armazenamento Blob Storage no Emulador Azurite em C# ASP.NET Core 10 EF Razor Mvc com banco de dados SQL-Server.
 
 #### 🎨 Aqui está uma demonstração do projeto
